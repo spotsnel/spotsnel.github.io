@@ -1,2 +1,3 @@
-# spotsnel.github.io
+# SpotSnel Hosting
+
 SpotOn
